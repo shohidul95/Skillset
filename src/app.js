@@ -7,7 +7,7 @@ function App() {
         <div className="App">
             <NavbarComponent />
             <div className="container">
-                {/* content goes here */}
+                {<p>Hello World!</p>}
             </div>
         </div>
     );
